@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 thong 1 da sua
+=======
+tao la thong2
+>>>>>>> thong2
